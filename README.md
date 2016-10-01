@@ -1,8 +1,8 @@
 # filesearchs
 Simple example of file search CLI in nodeJS
 ## Use
-npm install 
+`npm install` 
 
 or
 
-npm install -g filesearches
+`npm install -g filesearches`
