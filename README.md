@@ -2,5 +2,7 @@
 Simple example of file search CLI in nodeJS
 ## Use
 npm install 
-or 
+
+or
+
 npm install -g filesearches
