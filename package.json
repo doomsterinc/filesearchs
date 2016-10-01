@@ -1,14 +1,29 @@
 {
-  "name": "filesearch",
+  "name": "filesearchs",
   "version": "1.0.0",
   "description": "searches for files",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Maicon Giovani(Doomster)",
+  "author": "Maicon Giovani (Doomster)",
   "license": "ISC",
   "preferGlobal": true,
   "bin": {
     "filesearchs": "index.js"
-  }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsterinc/filesearchs.git"
+  },
+  "keywords": [
+    "filesearch",
+    "nodejs",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/doomsterinc/filesearchs/issues"
+  },
+  "homepage": "https://github.com/doomsterinc/filesearchs#readme"
 }
